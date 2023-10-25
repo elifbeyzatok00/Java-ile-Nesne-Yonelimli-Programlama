@@ -16,6 +16,12 @@ Sınıf ,aynı özellik ve eylemleri taşıyan varlıkların (nesnelerin) ortak 
 
 Nesne, ait olduğu sınıftaki özelliklerinin değerleri belli olan ve eylemleri sergileyiş şekli belli olan, biricik (unique) canlı bir varlıktır. Bu noktada canlı ile kast edilen, nesnenin RAM (Random Access Memory) ’de yaşadığı, ona RAM’de yer ayrıldığıdır (memory allocation).
 
+## Nesne - Sınıf Farkı
+
+- RAM'de yaşayan canlı olan nesnedir.
+- Class sadece bir blue printtir.
+  Yani bir kodu runladığımızda karşımıza çıkacak olan şey nesnedir. Nesne çalıştırılır.
+
 ## Nesnelerin özellik (attribute) ve eylemleri (activity) ne anlama gelir?
 
 Özelliği, (attribute,field) şayet bir insan nesnesi üzerinden anlatacak olursak; ad, soyad, yaş, boy, kilo, e-mail adresi gibi onu ifade eden hususlardır. Yapısal programlama dillerinde karşılığı değişkenlerdir (variables).
@@ -24,7 +30,7 @@ Eylem, (activity) yine bir insan nesnesini ele aldığımızda koşmak, yemek, u
 
 Şimdi, hem anlattıklarımı pekiştirmek adına hem de akılda kalıcılığı sağlaması açısından gerçek hayattan başka bir senaryoyu ele alalım ve sınıf, nesne, nesnelerin özellik ve eylemleri gibi soruları cevaplayalım.
 
-**Senaryo:**
+**Senaryo 1 :**
 
 Otomobil ; markası, rengi ve modeli olan, gaza basınca hızlanan, frene basınca yavaşlayan, direksiyonun döndüğü tarafa hareket eden ve birden fazla nesneyi (object) barındıran bir sınıflamayı tanımlar. Dolayısıyla, bu senaryoda otomobil bir sınıftır. Şayet, xx-xx-xxxx plakalı siyah bir Audi A4 otomobilinden bahsediyorsak , bu otomobil sınıfına ait bir nesnedir. Bunun nedeni, xx-xx-xxxx plakalı Audi A4 nesnesinin marka, renk ve model gibi özelliklerinin değerlerinin belli olması ve 100 km hıza kaç saniyede ulaştığının bilinmesidir.
 
