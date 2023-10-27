@@ -30,13 +30,13 @@ Eylem, (activity) yine bir insan nesnesini ele aldığımızda koşmak, yemek, u
 
 Şimdi, hem anlattıklarımı pekiştirmek adına hem de akılda kalıcılığı sağlaması açısından gerçek hayattan başka bir senaryoyu ele alalım ve sınıf, nesne, nesnelerin özellik ve eylemleri gibi soruları cevaplayalım.
 
-**Senaryo 1 :**
+[**Senaryo 1 :**](https://github.com/elifbeyzatok00/Java-ile-Nesne-Yonelimli-Programlama/tree/main/01-Object-Oriented-Programming-Philosophy/Senaryo1/Main.java)
 
 Otomobil ; markası, rengi ve modeli olan, gaza basınca hızlanan, frene basınca yavaşlayan, direksiyonun döndüğü tarafa hareket eden ve birden fazla nesneyi (object) barındıran bir sınıflamayı tanımlar. Dolayısıyla, bu senaryoda otomobil bir sınıftır. Şayet, xx-xx-xxxx plakalı siyah bir Audi A4 otomobilinden bahsediyorsak , bu otomobil sınıfına ait bir nesnedir. Bunun nedeni, xx-xx-xxxx plakalı Audi A4 nesnesinin marka, renk ve model gibi özelliklerinin değerlerinin belli olması ve 100 km hıza kaç saniyede ulaştığının bilinmesidir.
 
 Bu senaryoda plaka ,otomobil nesnelerini benzersiz (unique) olarak tanımlayan özelliktir (attribute). Otomobil nesnelerinin diğer özellikleri; gaz pedalı, fren pedalı, motor, lastik, far, direksiyon, dikiz aynası şeklinde çoğaltılabildiği gibi eylemleri ise; hızlanma, yavaşlama, hareket etme şeklinde çoğaltılabilir.
 
-**Senaryo 2 :**
+[**Senaryo 2 :**]()
 
 İnsan , kimlik numarası, adı, soyadı ve doğum tarihi (yaşı) olan, yemek yediğinde kilo alabilen, yürüdüğünde veya koştuğunda kilo verebilen ve birden fazla nesneyi barındıran bir sınıflamayı tanımlar. Dolayısıyla bu senaryoda İnsan bir sınıftır.
 
